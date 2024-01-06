@@ -1,7 +1,15 @@
+<div style="margin: 1rem; display: flex; justify-content: center; align-items: center; gap: 1rem; border-bottom: 0.5rem solid green">
+<h2>Spring Boot</h2>
+<span>WebFlux</span>
+<img src="https://upload.wikimedia.org/wikipedia/commons/7/79/Spring_Boot.svg" width="80" height="80"/>
+</div>
 
-<img src="src/main/resources/static/img/desi_soft_256.png" width="150" height="150">
+<div style="display: flex;  align-items: center; gap: 1rem">
+<h2>DesiSoft</h2>
+<img src="src/main/resources/static/img/desi_soft_256.png" width="80" height="80">
+</div>
 
-# DesiSoft 
+
 
 ## Introduction
 DesiSoft is a modern web application developed using Spring Boot with WebFlux. It's designed to be robust and efficient, leveraging the power of the Gradle Compiler.
