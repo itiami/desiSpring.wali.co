@@ -1,13 +1,15 @@
 
-<div align="center" style="font-size: large;">
+<p align="center" style="font-size: large;">
 <img src="src/main/resources/static/img/Spring_Boot.svg" width="80" height="80" align="right"/>
 <h1>Spring Boot</h1>
-</div>
+</p>
 </br>
-<img src="src/main/resources/static/img/desi_soft_256.png" width="80" height="80" align="left"/>
 
-## Introduction
- <span style="font-size: large; font-weight: bolder">DesiSoft</span> is a modern web application developed using Spring Boot with WebFlux. It's designed to be robust and efficient, leveraging the power of the Gradle Compiler.
+<p align="center" float="left">
+<img src="src/main/resources/static/img/desi_soft_256.png" width="80" height="80" align="left"/>
+<h3>Introduction</h3>
+DesiSoft is a modern web application developed using Spring Boot with WebFlux. It's designed to be robust and efficient, leveraging the power of the Gradle Compiler.
+</p>
 
 ## Developer
 **A A Numan**
