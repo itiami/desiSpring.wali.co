@@ -16,8 +16,10 @@ Spring Boot<sup><sup><sup>with WebFlux</sup></sup></sup></h1>
 The project is structured using Thymeleaf templates, enhanced with CSS and JavaScript for a dynamic and responsive user interface.
 
 <p align="center" float="left">
+<h3>
 <img src="src/main/resources/static/img/desi_soft_256.png" width="80" height="80" align="left"/>
-<h3>Introduction</h3>
+Introduction
+</h3>
 DesiSoft is a modern web application developed using Spring Boot with WebFlux. It's designed to be robust and efficient, leveraging the power of the Gradle Compiler.
 </p>
 
