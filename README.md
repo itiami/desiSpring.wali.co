@@ -18,7 +18,7 @@ The project is structured using Thymeleaf templates, enhanced with CSS and JavaS
 <p>
 <img src="src/main/resources/static/img/desi_soft_256.png" width="80" height="80" align="left"/>
 <h3>Introduction</h3>
-<strong><strong><strong style="color: orange;">DesiSoft</strong></strong></strong> is a modern web application developed using Spring Boot with WebFlux. It's designed to be robust and efficient, leveraging the power of the Gradle Compiler.
+<strong style="color: orange;">DesiSoft</strong> is a modern web application developed using Spring Boot with WebFlux. It's designed to be robust and efficient, leveraging the power of the Gradle Compiler.
 </p>
 
 ## Developer
