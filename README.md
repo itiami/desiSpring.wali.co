@@ -1,7 +1,7 @@
 
 <center>
-<h1>
 <img src="src/main/resources/static/img/Spring_Boot.svg" width="80" height="80" align="right"/>
+<h1>
 Spring Boot<sup><sup><sup>with WebFlux</sup></sup></sup></h1>
 </center>
 
