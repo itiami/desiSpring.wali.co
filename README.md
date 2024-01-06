@@ -1,12 +1,12 @@
-<center style="margin: 1rem; display: flex; justify-content: center; align-items: center; gap: 1rem; border-bottom: 0.5rem solid green">
+<div style="margin: 1rem; display: flex; justify-content: center; align-items: center; gap: 1rem; border-bottom: 0.5rem solid green">
 
 ## Spring Boot 
 <img src="src/main/resources/static/img/Spring_Boot.svg" width="80" height="80" align="right"/>
-</center>
+</div>
 
 <div style="display: flex;  align-items: center; gap: 1rem">
 <h2>DesiSoft</h2>
-<img src="src/main/resources/static/img/desi_soft_256.png" width="80" height="80">
+<img src="src/main/resources/static/img/desi_soft_256.png" width="80" height="80" align="left">
 </div>
 
 
