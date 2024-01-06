@@ -1,0 +1,13 @@
+<build>
+    <plugins>
+        <plugin>
+            <artifactId>maven-compiler-plugin</artifactId>
+            <version>3.8.1</version> <!-- Use the appropriate version -->
+            <configuration>
+                <excludes>
+                    <exclude>**/*.bak.java</exclude>
+                </excludes>
+            </configuration>
+        </plugin>
+    </plugins>
+</build>
