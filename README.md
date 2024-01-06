@@ -1,4 +1,4 @@
-<div style="margin: 1rem; display: flex; justify-content: center; align-items: center; gap: 1rem; border-bottom: 0.5rem solid green">
+<div align="center" style="margin: 1rem; display: flex; justify-content: center; align-items: center; gap: 1rem; border-bottom: 0.5rem solid green">
 <h2>Spring Boot</h2>
 <span>WebFlux</span>
 <img src="https://upload.wikimedia.org/wikipedia/commons/7/79/Spring_Boot.svg" width="80" height="80"/>
