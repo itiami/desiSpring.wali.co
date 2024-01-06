@@ -1,9 +1,19 @@
 
-<p align="center" style="font-size: large;">
+<center>
+<h1>
 <img src="src/main/resources/static/img/Spring_Boot.svg" width="80" height="80" align="right"/>
-<h1>Spring Boot</h1>
-</p>
-</br>
+Spring Boot<sup><sup><sup>with WebFlux</sup></sup></sup></h1>
+</center>
+
+<br/>
+
+## Developer
+**A A Numan**
+
+#### [GitHub Link](https://github.com/itiami/desiSpring.wali.co.git) to download
+
+## Project Setup
+The project is structured using Thymeleaf templates, enhanced with CSS and JavaScript for a dynamic and responsive user interface.
 
 <p align="center" float="left">
 <img src="src/main/resources/static/img/desi_soft_256.png" width="80" height="80" align="left"/>
