@@ -3,9 +3,7 @@
 <img src="src/main/resources/static/img/Spring_Boot.svg" width="80" height="80" align="right"/>
 <h1>Spring Boot</h1>
 </div>
-
-
-
+<hr/>
 <img src="src/main/resources/static/img/desi_soft_256.png" width="80" height="80" align="left"/>
 
 ## Introduction
