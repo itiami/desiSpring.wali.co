@@ -1,8 +1,8 @@
-<div align="center" style="margin: 1rem; display: flex; justify-content: center; align-items: center; gap: 1rem; border-bottom: 0.5rem solid green">
-<h2>Spring Boot</h2>
-<span>WebFlux</span>
-<img src="https://upload.wikimedia.org/wikipedia/commons/7/79/Spring_Boot.svg" width="80" height="80"/>
-</div>
+<center style="margin: 1rem; display: flex; justify-content: center; align-items: center; gap: 1rem; border-bottom: 0.5rem solid green">
+
+## Spring Boot 
+<img src="src/main/resources/static/img/Spring_Boot.svg" width="80" height="80" align="right"/>
+</center>
 
 <div style="display: flex;  align-items: center; gap: 1rem">
 <h2>DesiSoft</h2>
