@@ -1,19 +1,25 @@
 <!DOCTYPE html>
-<html xmlns:th="http://www.thymeleaf.org">
+<html xmlns:th="http://www.thymeleaf.org" lang="en-En">
 
 <head>
     <link rel="stylesheet" th:href="@{/css/style.css}" />
+    <title>Spring Boot WebFlux</title>
 </head>
 
 <body>
     <div>
         <header>
-            <div id="pageTitle" th:text="${msg}"></div>
             <!--<div class="items">
                 <a class="navItems" th:each="item : ${routeList}" th:href="${item.path}" th:text="${item.name}">Link</a>
             </div>-->
         </header>
 
+        <div id="pageTitle" th:text="${msg}"></div>
+        <div id="dataFromSpring">
+            <ul id="os">
+
+            </ul>
+        </div>
     </div>
     <script th:src="@{/js/script.js}"></script>
 </body>
