@@ -13,7 +13,7 @@ public interface IProduct {
 
   List<Product> getAllProducts();
   Product getProductById(Long id);
-  Product saveProduct(Product product);
+  Product getProductByName(String name);
   void deleteProduct(Long id);
 
 }

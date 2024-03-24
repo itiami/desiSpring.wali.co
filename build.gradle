@@ -45,7 +45,6 @@ dependencies {
     implementation 'org.springframework.boot:spring-boot-starter-webflux'
     compileOnly 'org.projectlombok:lombok'
     developmentOnly 'org.springframework.boot:spring-boot-devtools'
-    developmentOnly 'org.springframework.boot:spring-boot-docker-compose'
     runtimeOnly 'org.postgresql:postgresql'
     annotationProcessor 'org.springframework.boot:spring-boot-configuration-processor'
     annotationProcessor 'org.projectlombok:lombok'
@@ -57,6 +56,11 @@ dependencies {
     implementation 'org.json:json:20231013'
     implementation 'org.springframework.boot:spring-boot-starter-actuator'
     implementation 'com.twilio.sdk:twilio:10.0.0-rc.6'
+    // https://mvnrepository.com/artifact/com.azure/azure-identity
+    implementation 'com.azure:azure-identity:1.11.1'
+    implementation 'com.azure.resourcemanager:azure-resourcemanager:2.34.0'
+    implementation 'com.azure.resourcemanager:azure-resourcemanager-compute:2.34.0'
+    implementation 'com.azure.resourcemanager:azure-resourcemanager-network:2.34.0'
 }
 
 tasks.named('test') {

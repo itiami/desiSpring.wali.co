@@ -1,4 +1,4 @@
-package co.wali.desisoft.payment;
+package co.wali.desisoft.employee.payment;
 
 import co.wali.desisoft.product.Product;
 

@@ -1,8 +1,16 @@
 package co.wali.desisoft.product;
 
+import jakarta.persistence.*;
+import jakarta.transaction.Transactional;
 import org.json.JSONObject;
 
+//@Transactional
+@Entity
+@Table(name = "ds_product")
 public class Product {
+    @Id
+    @GeneratedValue(strategy = GenerationType.IDENTITY)
+
     private Long id;
     private String name;
     private double price;
